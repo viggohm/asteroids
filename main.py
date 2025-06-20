@@ -11,5 +11,5 @@ def main():
         screen.fill("black")
         pygame.display.flip()
 
-if __main__ == "__main__":
+if __name__ == "__main__":
     main()
